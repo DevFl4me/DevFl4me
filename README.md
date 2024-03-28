@@ -10,7 +10,7 @@ Olá! Eu sou Ryan, estou conhecendo o mundo mobile, apaixonado por tecnologia e 
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-pablo-90a547196/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]([seu perfil do Instagram](https://www.instagram.com/ryansky_15/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/ryansky_15/))
 
 ## Agradecimentos
 Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato comigo. Vamos criar algo incrível juntos! 😊
